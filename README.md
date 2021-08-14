@@ -11,5 +11,11 @@ Sphere is created by first creating a cube covered with triangular meshes and by
 
 <image src="./images/day1.png">
 
+Day2: Create Continents and Mountains
+
+Create continents and mountains using multiple layers of noise filters.
+
+<image src="./images/day2.png">
+
 ## Reference
 Tutorial: https://www.youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
